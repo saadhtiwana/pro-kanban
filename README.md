@@ -1,6 +1,6 @@
 # Professional Kanban Board
 
-![Preview](app.jpg)
+![Preview](saad.jpg)
 
 This project is a modern, efficient Kanban board for professional task management, built with React.
 
